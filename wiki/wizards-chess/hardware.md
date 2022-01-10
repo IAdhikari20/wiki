@@ -20,9 +20,11 @@ Our current prototype design for the chess pieces has a wooden triangle base, 1"
 
 The chess pieces are made from .5" birch plywood and manufactured using the laser cutting process. The hole markers are also included in the laser cutting process so that we don't have to remeasure where to drill the holes after every cut and to keep everything uniform.
 
-We will also start manufacturing the motor mounts ourselves to cut down on cost, using the manual mill and CNC machine.
-
 <img src="assets/images/laser-cut.png" alt="Laser Cut Lines" width="400"/>
+
+### Motor Mounts
+In order to develop the ideal motor mount, we have designed and constructed several iterations using a 3D printer and CNC mill. This semester, we will be choosing which type of motor mount will be the best for the project, factoring in cost, durability, time to manufacture, and weight.
+
 <img src="assets/images/motor-mount.jpg" alt="CAD Model of Motor Mount" width="400"/>
 
 # Chess Board
